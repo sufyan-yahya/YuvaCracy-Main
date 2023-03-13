@@ -212,7 +212,7 @@ h6,
 .page-header {
     padding-top: 12rem;
     padding-bottom: 6rem;
-    background: url(../img/header.jpg) top left no-repeat;
+    background: url(../img/about.jpg) top left no-repeat;
     background-size: cover;
 }
 
@@ -1545,7 +1545,7 @@ h6,
       
       .App-headerAbout {
         /* background-color: rgb(125, 194, 141); */
-        background-image: url("../public/img/about.jpg");
+        background-image: url("../img/about.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         min-height: 100vh;
